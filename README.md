@@ -7,7 +7,7 @@ RTL Design | FPGA Prototyping | Digital Systems
 
 ## Professional Summary
 
-Motivated VLSI and chip design enthusiast with strong fundamentals in digital design, semiconductor physics, and RTL development. Proficient in Verilog/SystemVerilog and FPGA-based design, with hands-on experience in implementing and verifying digital systems. Interested in contributing to efficient hardware design and advancing in the VLSI design flow.
+Motivated VLSI and chip design enthusiast with strong fundamentals in digital design, semiconductor physics, and RTL development. Proficient in Verilog/SystemVerilog and FPGA-based design, with hands-on experience in implementing and verifying digital systems. Familiar with embedded system development and a beginner-level understanding of physical design concepts. Interested in contributing to efficient hardware design and advancing in the VLSI design flow.
 
 ---
 
