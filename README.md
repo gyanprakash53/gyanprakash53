@@ -3,13 +3,13 @@
 
 
 
-<!-- GitHub Profile README Repository name must exactly match your GitHub username: gyanprakash53 External visualization cards are powered by third-party services. --><h1 align="center">Hi, I'm Gyan Prakash 👋</h1><p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&height=55&lines=Physical+Design;Static+Timing+Analysis+(STA);RTL+Design;FPGA+Development;Analog+IC+Design;Embedded+Development" alt="Typing introduction" /> </p><p align="center"> <a href="https://github.com/gyanprakash53"> <img src="https://img.shields.io/badge/GitHub-gyanprakash53-181717?style=for-the-badge&logo=github" alt="GitHub" /> </a> <a href="https://www.credly.com/badges/80ebb195-628a-43dc-adfa-00932181a416/public_url"> <img src="https://img.shields.io/badge/Cadence-RTL--to--GDSII%20Flow%20v5.0-red?style=for-the-badge" alt="Cadence RTL-to-GDSII certification" /> </a> <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Bengaluru India" /> </p>
+<!-- GitHub Profile README Repository name must exactly match your GitHub username: gyanprakash53 External visualization cards are powered by third-party services. --><h1 align="center">Hi, I'm Gyan Prakash 👋</h1><p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&height=55&lines=Physical+Design;Static+Timing+Analysis+(STA);RTL+Design;FPGA+Development;Analog+IC+Design;Embedded+Development" alt="Typing introduction" /> </p><p align="center"> <a href="https://github.com/gyanprakash53"> <img src="https://img.shields.io/badge/GitHub-gyanprakash53-181717?style=for-the-badge&logo=github" alt="GitHub" /> </a> <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Bengaluru India" /> </p>
 About Me
 I'm pursuing a B.E. in VLSI Design and Technology at Nitte Meenakshi Institute of Technology (NMIT), Bengaluru. I'm interested in the broader field of VLSI and semiconductor engineering, spanning digital IC design, ASIC implementation, FPGA-based systems, analog circuits, and embedded hardware.
 
 My current career focus is ASIC Physical Design, while I continue to explore different parts of the hardware development process—from RTL design and verification to FPGA prototyping, analog circuit design, and sensor-driven embedded systems. I enjoy understanding how these areas connect to build complete hardware solutions.
 
-🎯 Current career focus: ASIC Physical Design and the RTL-to-GDSII flow
+🎯 Current career focus: ASIC Physical Design
 🔧 Digital design: Verilog, SystemVerilog, RTL design, simulation, and verification
 🧩 FPGA & hardware: FPGA prototyping, digital systems, and hardware acceleration
 📡 Embedded systems: ESP32, sensor interfacing, UART, MQTT, and IoT applications
@@ -19,7 +19,7 @@ My current career focus is ASIC Physical Design, while I continue to explore dif
 Areas of Interest & Technical Skills
 Domain	Skills and Tools
 Digital IC Design	Verilog, SystemVerilog, RTL design, FSMs, testbench development, simulation, and verification
-ASIC Physical Design	RTL-to-GDSII flow, synthesis, floorplanning, power planning, placement, CTS, routing, and STA fundamentals
+ASIC Physical Design	Synthesis, floorplanning, power planning, placement, CTS, routing, and STA fundamentals
 DFT & Timing	Scan insertion, ATPG concepts, setup/hold analysis, timing constraints, and timing debugging
 FPGA & Digital Systems	AMD/Xilinx Vivado, Vitis HLS, FPGA prototyping, AXI, and AXI4-Stream
 Analog CMOS	CMOS fundamentals, common-source/common-drain amplifiers, circuit simulation, and analog layout basics
